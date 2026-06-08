@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a college student passionate about building co
 
 ### 🛠️ My Favorite Tech Stack
 * **Languages:** Python, html,css
-* **Fields of Interest:** Logical thinking 
+* **Fields of Interest:** Logical thinking , alphabets puzzle solving.
 
 ### ⚡ Fun Facts
 * 🔭 I’m currently working on GitHub and stck editor.
-* ⚡ Fun fact: I love to learn new things with the help of AI tools
+* ⚡ Fun fact: I love to learn new things with the help of AI tools like gemini .
